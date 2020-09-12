@@ -1,0 +1,9 @@
+{
+    "value1": 1,
+    "value2": 2,
+    "a_dict_of_values": {
+        "d1": "hello",
+        "d2": "world"
+    },
+    "value3": 1.234
+}

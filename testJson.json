@@ -1,0 +1,8 @@
+{
+    "name": "value",
+    "type": "a json variable",
+    "dict":{
+        "value1": "a value",
+        "value2": "another value"
+    }
+}
